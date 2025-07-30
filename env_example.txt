@@ -1,5 +1,0 @@
-CLIENT_ID=45016200-db91-4cd5-992f-5e612421959a
-TENANT_ID=0d8a8ade-0192-4c1c-9e3c-69c0c7c8f53e
-CLIENT_SECRET=IyO8Q~lVpF5V_rKNU7Vx~LGM1PVFhK1ebOIDSbYu
-REDIRECT_URI=https://your-subdomain.workers.dev/callback
-SERVER_URL=https://your-subdomain.workers.dev
