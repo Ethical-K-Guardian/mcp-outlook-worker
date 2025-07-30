@@ -1,9 +1,0 @@
-name = "mcp-outlook"
-type = "javascript"
-account_id = "your_account_id_here"
-workers_dev = true
-compatibility_date = "2023-10-10"
-
-kv_namespaces = [
-  { binding = "OUTLOOK_TOKEN_KV", id = "your_kv_namespace_id" }
-]
